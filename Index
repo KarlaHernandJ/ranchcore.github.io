@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="es">
+  
+<head>
+<title>Ranchcore</title>
+<STYLE type="text/css">
+  H1 { text-align: center}
+  H1 {font-family:'Courier New', Courier, monospace}
+  BODY {text-align: justify}
+  body {line-height: 1cm;}
+  BODY {font-size:20px}
+  BODY {font-family:'Courier New', Courier, monospace}
+  BODY {background-image: url("extras/Pattern.jpeg");
+}
+  body{
+margin: 40px;
+}
+footer { text-align: center}
+footer {font-family:'Courier New', Courier, monospace}
+footer {font-size:20px}
+nav a{
+      text-decoration:none;
+      color:inherit;
+      font-size:15px;
+      font-family:'Courier New', Courier, monospace
+      }
+            
+nav li{
+      display:inline-block;
+      width:150px;
+      height:30px;
+      padding:5px 10px;
+      background-image: none;
+      border:1px solid #000;
+      text-align:center;
+      color:#000;
+      position:relative;
+}
+nav li:hover{
+      background-color:#fff;
+      color:#000;
+      }
+            
+nav li>ul{
+      display:none;
+      }
+
+nav li:hover>ul{
+      display:block;
+      position:absolute;
+      top:30px;
+      left:0px;
+}
+a { color: #000000; }
+ </STYLE>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+</head>
+ 
+<center><nav>
+  <ul>
+    <li><a href="Index.html">Inicio</a></li>
+    <li><a href="Sobre la autora.html">Sobre la autora</a></li>
+  </ul>
+</nav></center>
+
+  <header>
+    <h1>Ranchcore</h1>
+  </header>
+
+
+  <body>
+    <p1><a href="Extras/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f2d36703138375551527930564a513d3d2d3835393033313831362e313630326366396630313135653531623235303431333535383733302e676966.gif" target="_blank">Instantes campestres</a> que se funden en la memoria y que ahora toman posesión de esta página web. Memorias de <a href="Extras/Blog_Los_Tuxtlas.jpeg" target="_blank">Los Tuxtlas</a> y otros recuerdos alegres que se conjuntan para formar la vida campestre.</p>
+      <p>Unos que transcurren más <a href="Extras/61909856a71146309c7a80f30615e242.gif" targer="_blank">alegres</a> y otros que dejan un sabor amargo, pero sin duda que dejan un sentimiento en el lector.</p>
+    <p2>¡Sean bienvenidos a este baúl digital en el cual las historias se mezclan entre lo real y lo mítico!</p>
+    <p>Comienzan las <a href="Limonaria.html">evocaciones</a></p>
+      <center><h2>Dedicado a mi padre</h2></center></body>
+
+
+
+<footer>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
+</footer>
+</html>
